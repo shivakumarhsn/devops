@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 GOOD CODE
 BAD CODE
-=======
->>>>>>> parent of c7935c4... good code
